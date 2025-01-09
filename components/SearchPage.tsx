@@ -17,7 +17,7 @@ export default function SearchPage() {
     try {
       const response = await axios.get('https://drug-info-and-price-history.p.rapidapi.com/1/druginfo', {
         headers: {
-          'x-rapidapi-key': 'c1cb0f53d8msh2a7e3341abfe922p1e612ejsn04a388bcecf7',
+          'x-rapidapi-key': 'cPuonfwoefn88sdvsvsvrer_vw-w_vr-48iwwfwcecf7',
           'x-rapidapi-host': 'drug-info-and-price-history.p.rapidapi.com'
         },
         params: {
